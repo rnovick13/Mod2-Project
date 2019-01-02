@@ -1,0 +1,2 @@
+class MealsrestrictionsController < ApplicationController
+end
